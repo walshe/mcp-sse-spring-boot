@@ -17,3 +17,8 @@ Configure Cursor client's mcp.json (for example):
   }
 }
 ```
+
+
+Good video on how sse works and the underlying messages sent to /mcp : https://www.youtube.com/watch?v=n5DG0uClbdo
+
+
