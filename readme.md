@@ -1,7 +1,12 @@
 
 ### Demonstrates MCP SSE with spring boot.
 
-Configure in Cursor's mcp.json':
+
+Run with
+
+    ./gradlew clean bootRun      
+
+Configure Cursor client's mcp.json (for example):
 
 ```json
 {
